@@ -3,7 +3,7 @@ import React from 'react'
 function  redata() {
   return (
     <div>
-       d1
+       d2
     </div>
   )
 }
