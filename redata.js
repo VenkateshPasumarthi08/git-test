@@ -6,11 +6,7 @@ function  redata() {
         here we are learning about branches
         here we are learning about branches 
         here we are learning about branches
-<<<<<<< HEAD
-        master
-=======
         devoloper
->>>>>>> devoloper
     </div>
   )
 }
