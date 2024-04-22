@@ -4,6 +4,7 @@ function  redata() {
   return (
     <div>
       c2
+       
     </div>
   )
 }
